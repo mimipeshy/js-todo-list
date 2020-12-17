@@ -1,0 +1,9 @@
+/* body {
+  background-image: url("../images/img1.png");
+} */
+
+h1 {
+  color:rgb(172, 124, 97);
+  border: solid;
+  border-color:  rgb(252, 233, 127);
+}
