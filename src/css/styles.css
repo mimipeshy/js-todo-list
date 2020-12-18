@@ -3,7 +3,8 @@
 } */
 
 h1 {
-  color:rgb(172, 124, 97);
+  color:rgb(39, 36, 34);
   border: solid;
-  border-color:  rgb(252, 233, 127);
+  border-color:  rgb(29, 115, 165);
+  background-color: rgb(248, 233, 191);
 }
